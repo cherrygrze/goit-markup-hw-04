@@ -282,6 +282,7 @@ img {
 .our-projects {
     display: flex;
     flex-wrap: wrap;
+    gap: 30px;
 }
 
 .options {
