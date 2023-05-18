@@ -114,6 +114,12 @@ img {
     color: var(--primary-color);
 }
 
+.envelope {
+    max-width: 16px;
+    max-height: 12px;
+    fill: var(--svg-gray);
+}
+
 /* HEADER */
 
 /* HERO  */
