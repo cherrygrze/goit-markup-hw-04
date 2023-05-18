@@ -6,6 +6,7 @@
     --bg-color-accent2: #2f303a;
     --second-font-color: #757575;
     --portfolio-border-gray: #eeeeee;
+    --svg-gray: #afb1b8;
 }
 
 body {
@@ -120,6 +121,20 @@ img {
     fill: var(--svg-gray);
 }
 
+.navigation-logo{
+    padding-right: 10px;
+  }
+
+  .section-header-contact-list {
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50px;
+  }
+
+  
 /* HEADER */
 
 /* HERO  */
@@ -320,6 +335,7 @@ img {
     gap: 30px;
 }
 .project-card {
+
 }
 .portfolio-main {
     font-weight: 700;
